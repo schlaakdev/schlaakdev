@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schlaakdev
-- 👀 I’m interested in ... changing career paths
+- 👀 I’m interested in ... learning to code
 - 🌱 I’m currently learning ... TOP
 - 💞️ I’m looking to collaborate on ... TOP
 - 📫 How to reach me ... schlaakdev@gmail.com
